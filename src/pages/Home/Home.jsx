@@ -13,9 +13,9 @@ const Home = () => {
           of <br />
           Emoji Based Passwords
         </h1>
-        <p className="text-gray-500 font-extrabold italic mt-16 text-3xl">
+        {/* <p className="text-gray-500 font-extrabold italic mt-16 text-3xl">
           Hello World!
-        </p>
+        </p> */}
       </div>
     </div>
   );
