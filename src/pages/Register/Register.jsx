@@ -128,9 +128,9 @@ const Register = () => {
                 <option value="Select age">Select Age</option>
                 <option value="below 18">Below 18</option>
                 <option value="18-25">18-25</option>
-                <option value="Secondary">26-32</option>
-                <option value="Secondary">33-40</option>
-                <option value="Secondary">41-50</option>
+                <option value="26-32">26-32</option>
+                <option value="33-40">33-40</option>
+                <option value="41-50">41-50</option>
                 <option value="50-above">51-above</option>
               </select>
               {/* normalPassword */}
